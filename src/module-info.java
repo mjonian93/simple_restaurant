@@ -1,0 +1,2 @@
+module constella_restaurant {
+}
